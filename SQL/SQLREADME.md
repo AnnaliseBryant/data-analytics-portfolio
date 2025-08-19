@@ -13,3 +13,4 @@ This folder contains SQL projects focused on data cleaning and exploratory analy
   Handled duplicates, missing values, and standardized categorical variables.  
 - **[Exploratory Analysis](World%20Life%20Expectancy%20Analysis.sql)**  
   Explored life expectancy trends, GDP relationships, and differences between developed vs. developing countries.
+delete file
