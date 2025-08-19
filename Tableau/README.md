@@ -1,5 +1,5 @@
 # Tableau Projects
-
+This folder contains Tableau projects focused on building dashboards and visualizing data insights.
 ## Call Center Dashboard
 - [View on Tableau Public](https://public.tableau.com/views/CallCenterDataProject_17553170727510/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
